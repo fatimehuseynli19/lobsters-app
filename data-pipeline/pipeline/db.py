@@ -38,7 +38,7 @@ def init_db():
     TODO:
         - Call Base.metadata.create_all(bind=engine)
     """
-    pass  # Remove this line when you implement the function
+    Base.metadata.create_all(bind=engine)
 
 
 def get_session():
@@ -53,4 +53,4 @@ def get_session():
     TODO:
         - Return SessionLocal()
     """
-    pass  # Remove this line when you implement the function
+    return SessionLocal()
