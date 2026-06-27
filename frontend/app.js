@@ -1,3 +1,4 @@
+// Frontend Developer: Ayan — fetches and renders top 10 Lobsters posts
 const API_BASE_URL = "http://localhost:5000";
 
 const postListEl = document.getElementById("post-list");
