@@ -153,3 +153,9 @@ Each specialization has its own detailed guide in `docs/`:
 - 🔧 [`docs/BACKEND.md`](docs/BACKEND.md)
 - 🎨 [`docs/FRONTEND.md`](docs/FRONTEND.md)
 - 🏗️ [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — read this one as a whole team together first!
+
+## Contributors
+
+- @fatimehuseynli19 — Data Pipeline
+- @sevincmamedova — Backend API  
+- @Ayan1413 — Frontend UI
